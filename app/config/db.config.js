@@ -1,6 +1,7 @@
 module.exports = {
+  socketPath : '/Applications/MAMP/tmp/mysql/mysql.sock',
   HOST: "localhost",
-  USER: "root",
-  PASSWORD: "123456",
-  DB: "testdb"
+  USER: "robin",
+  PASSWORD: "robin",
+  DB: "sails"
 };
